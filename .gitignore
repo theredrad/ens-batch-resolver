@@ -1,0 +1,6 @@
+.idea
+config.yaml
+list.json
+output.json
+/bin
+.DS_Store
